@@ -1,0 +1,12 @@
+Name : An Nazmus Sakib
+Age: 22
+Gender : Male
+Location: R-singate,Faridabad,Dhaka
+School : Riverview International School & College
+College : Govt. Shaheed Suhrawardy College, Dhaka
+University : American International University - Bangladesh (AIUB)
+Subject : Computer Science Engineering (C.S.E)
+S.S.C: GPA 5.00 (Science)
+H.S.C: GPA 4.35 (Science)
+B.Sc in CSE: CGPA 3.35 (Running)
+
